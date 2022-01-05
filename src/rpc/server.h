@@ -18,7 +18,8 @@
 
 #include <boost/function.hpp>
 
-#include <univalue.h>
+//#include <univalue.h>
+#include <univalue/include/univalue.h>
 
 static const unsigned int DEFAULT_RPC_SERIALIZE_VERSION = 1;
 static const bool DEFAULT_USE_NAMECOIN_API = false;
